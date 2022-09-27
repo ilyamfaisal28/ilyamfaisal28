@@ -14,7 +14,7 @@
 [<img align="left" alt="Ilyam Faisal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 
 <br />
----
+
 ![Ilyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyamfaisal28)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://ilyam-faisal.web.app/
