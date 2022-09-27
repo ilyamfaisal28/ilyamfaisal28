@@ -2,7 +2,7 @@
 
 ## I'm a final year student majoring Informatics
 - I'm still learning Machine Learning and got the TensorFlow Developer Certificate.
-- I'm looking for an internship preferably in Machine Learning related, Data Scientist, and Data Analyst.
+- I'm looking for an internship preferably in Machine Learning related, Data Science, and Data Analysis.
 - I'm open to any opportunity to work on AI field. 
 - My goals in 2022: Finding internship and complete all the course/subject in my college.
 - My goals in 2023: Finishing my college on time and find all opportunity to get work.
