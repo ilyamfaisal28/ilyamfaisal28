@@ -46,7 +46,7 @@
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/java/java-original.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/html5/html5-original.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="CSS" width="26px" src="https://github.com/bablubambal/All_logo_and_pictures/raw/main/others/css.svg"/>
+<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="Kaggle" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg"/>
