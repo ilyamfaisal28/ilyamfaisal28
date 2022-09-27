@@ -4,7 +4,6 @@
 - 🤖 I'm still learning Machine Learning and got the TensorFlow Developer Certificate.
 - 🔎 I'm looking for an internship preferably in Machine Learning related, Data Science, and Data Analysis.
 - 💼 I'm open to any opportunity to work on AI field. 
-- 📌 My goals in 2022: Finding internship and complete all the course/subject in my college.
 - 📌 My goals in 2023: Finishing my college on time and find all opportunity to get work.
 - ⚡️ Fun fact: I love watching anime 🎬 and reading manga 📔 (especially if it's top quality in terms of story, character, etc.) and also I love exercising 💪
 
