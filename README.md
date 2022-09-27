@@ -2,7 +2,7 @@
 
 ## I'm a final year student majoring Informatics 👨‍💻
 - 🤖 I've got the TensorFlow Developer Certificate and still want to learn Machine Learning more.
-[<img align="left" alt="Python" width="50%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56314359"/>](https://www.credential.net/8605ba28-26d6-4753-90a3-f9ca1fb40bf5)
+[<img align="left" alt="TensorFlow Developer Certificate" width="500px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56314359"/>](https://www.credential.net/8605ba28-26d6-4753-90a3-f9ca1fb40bf5)
 <br>
 <br>
 <br>
