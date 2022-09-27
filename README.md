@@ -8,16 +8,25 @@
 - ⚡️ Fun fact: I love watching anime 🎬 and reading manga 📔 (especially if it's top quality in terms of story, character, etc.) and also I love exercising 💪
 
 ### Connect with me:
+[![website](./img/globe-light.svg)](https://ilyam-faisal.web.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ilyam-faisal.web.app/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-dark-mode-only)
+<!-- [<img align="left" alt="Portfolio Ilyam Faisal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
+[<img align="left" alt="Ilyam Faisal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin] -->
+<br>
 
-[<img align="left" alt="Portfolio Ilyam Faisal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
-[<img align="left" alt="Ilyam Faisal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src=">]
+
 <br>
-<br>
+
 ---
 
 ![Ilyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyamfaisal28&show_icons=true&hide_border=true&theme=algolia&border_radius=10&count_private=true&include_all_commits=true)
 
-[website]: https://ilyam-faisal.web.app/
-[linkedin]: https://www.linkedin.com/in/ilyam-faisal/
+<!-- [website]: 
+[linkedin]: https://www.linkedin.com/in/ilyam-faisal/ -->
 
 ---
