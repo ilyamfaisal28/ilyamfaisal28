@@ -20,7 +20,6 @@
 <br>
 <br>
 
-
 - 🔎 I'm looking for an internship preferably in Machine Learning related, Data Science, and Data Analysis.
 - 💼 I'm open to any opportunity to work on AI field. 
 - 📌 My goals in 2023: Finishing my college on time and find all opportunity to get work.
