@@ -15,7 +15,7 @@
 
 <br />
 
-![Ilyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyamfaisal28)](https://github.com/anuraghazra/github-readme-stats)
+![Ilyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyamfaisal28&show_icons=true)
 
 [website]: https://ilyam-faisal.web.app/
 [linkedin]: https://www.linkedin.com/in/ilyam-faisal/
