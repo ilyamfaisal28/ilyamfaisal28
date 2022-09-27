@@ -2,7 +2,25 @@
 
 ## I'm a final year student majoring Informatics 👨‍💻
 - 🤖 I'm still learning Machine Learning and got the TensorFlow Developer Certificate.
-[<img align="left" alt="Python" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56314359"/>](https://www.credential.net/8605ba28-26d6-4753-90a3-f9ca1fb40bf5)
+[<img align="left" alt="Python" width="50%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56314359"/>](https://www.credential.net/8605ba28-26d6-4753-90a3-f9ca1fb40bf5)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 - 🔎 I'm looking for an internship preferably in Machine Learning related, Data Science, and Data Analysis.
 - 💼 I'm open to any opportunity to work on AI field. 
 - 📌 My goals in 2023: Finishing my college on time and find all opportunity to get work.
