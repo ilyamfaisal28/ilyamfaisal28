@@ -47,3 +47,8 @@
 [linkedin]: https://www.linkedin.com/in/ilyam-faisal/ -->
 
 ---
+<style>
+.markdown-body img[align=left] {
+    padding-right: 10px;
+}
+</style>
