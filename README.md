@@ -12,10 +12,11 @@
 
 [<img align="left" alt="Portfolio Ilyam Faisal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
 [<img align="left" alt="Ilyam Faisal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+<br>
+<br>
+---
 
-<br />
-
-![Ilyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyamfaisal28&show_icons=true)
+![Ilyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyamfaisal28&show_icons=true&hide_border=true)
 
 [website]: https://ilyam-faisal.web.app/
 [linkedin]: https://www.linkedin.com/in/ilyam-faisal/
