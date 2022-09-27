@@ -7,6 +7,11 @@
 - 📌 My goals in 2023: Finishing my college on time and find all opportunity to get work.
 - ⚡️ Fun fact: I love watching anime 🎬 and reading manga 📔 (especially if it's top quality in terms of story, character, etc.) and also I love exercising 💪
 
+### Skills and Experiences:
+- 🤖 Machine Learning using Python, TensorFlow, Numpy, Pandas, Google Colab, Kaggle, Jupyter
+- 📱 Android App Development (Native) using Kotlin and Android Studio
+- 💻 HTML, CSS, JS
+
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://ilyam-faisal.web.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://ilyam-faisal.web.app/#gh-dark-mode-only)
@@ -41,6 +46,5 @@
 
 ---
 ![Ilyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyamfaisal28&show_icons=true&hide_border=true&theme=algolia&border_radius=10&count_private=true&include_all_commits=true)
-
-
 ---
+
