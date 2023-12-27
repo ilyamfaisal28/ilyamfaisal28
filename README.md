@@ -1,16 +1,15 @@
-### Hi there, I'm Ilyam 👋
+### Hi there, I'm Faisal 👋
 
-## I'm a final year student majoring Informatics 👨‍💻
+## I'm a Fresh Graduate of Informatics👨‍💻
 - 🤖 I've got the TensorFlow Developer Certificate and still want to learn Machine Learning more.
 [![TensorFlow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56314359)](https://www.credential.net/8605ba28-26d6-4753-90a3-f9ca1fb40bf5)
-- 🔎 I'm looking for an internship preferably in Machine Learning related, Data Science, and Data Analysis.
-- 💼 I'm open to any opportunity to work on AI field. 
-- 📌 My goals in 2023: Finishing my college on time and find all opportunity to get work.
+- 💼 I'm looking for a job preferably in Machine Learning or AI and Data Science related.
+- 🧠 I'm fast learner, like to read books, hard worker, and willing to commit on the job.
 - ⚡️ Fun fact: I love watching anime 🎬 and reading manga 📔 (especially if it's top quality in terms of story, character, etc.) and also I love exercising 💪
 
 
 ### Skills and Experiences:
-- 🤖 Machine Learning using Python, TensorFlow, Numpy, Pandas, Google Colab, Kaggle, Jupyter
+- 🤖 Machine Learning using Python, TensorFlow, Pytorch, Numpy, Pandas, Google Colab, Kaggle, Jupyter
 - 📱 Android App Development (Native) using Kotlin and Android Studio
 - 💻 HTML, CSS, JS
 
