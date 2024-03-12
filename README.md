@@ -1,43 +1,22 @@
-### Hi there, I'm Ilyam 👋
+### Hi there, I'm Faisal 👋
 
-## I'm a final year student majoring Informatics 👨‍💻
-- 🤖 I've got the TensorFlow Developer Certificate and still want to learn Machine Learning more.
-<!-- [<img align="left" alt="TensorFlow Developer Certificate" width="500px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56314359"/>](https://www.credential.net/8605ba28-26d6-4753-90a3-f9ca1fb40bf5) -->
-[![test](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56314359)](https://www.credential.net/8605ba28-26d6-4753-90a3-f9ca1fb40bf5)
-<!-- <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> -->
-
-- 🔎 I'm looking for an internship preferably in Machine Learning related, Data Science, and Data Analysis.
-- 💼 I'm open to any opportunity to work on AI field. 
-- 📌 My goals in 2023: Finishing my college on time and find all opportunity to get work.
+## I'm a Fresh Graduate of Informatics👨‍💻
+- 🤖 I've got the Google TensorFlow Developer Certificate and still want to learn Machine Learning more.
+- 💼 I'm looking for a job preferably in Machine Learning or AI and Data Science related.
+- 🧠 I'm fast learner, like to read books, hard worker, and willing to commit on the job.
 - ⚡️ Fun fact: I love watching anime 🎬 and reading manga 📔 (especially if it's top quality in terms of story, character, etc.) and also I love exercising 💪
 
-
-### Skills and Experiences:
-- 🤖 Machine Learning using Python, TensorFlow, Numpy, Pandas, Google Colab, Kaggle, Jupyter
-- 📱 Android App Development (Native) using Kotlin and Android Studio
-- 💻 HTML, CSS, JS
-
-### Connect with me:
+### Check My Portfolio:
 [![website](./img/globe-light.svg)](https://ilyam-faisal.web.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://ilyam-faisal.web.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-dark-mode-only)
+
+### Skills and Experiences:
+- 🤖 Machine Learning using Python, TensorFlow, Pytorch, Numpy, Pandas, Google Colab, Kaggle, Jupyter
+- 📱 Android App Development (Native) using Kotlin and Android Studio
+- 💻 HTML, CSS, JS
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/python/python-original.svg"/>
@@ -60,7 +39,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Intellij" width="26px" src="https://github.com/bablubambal/All_logo_and_pictures/raw/main/ides/intellij.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
-
 <br>
 <br>
 
