@@ -10,7 +10,7 @@
 [![website](./img/briefcase-light.svg)](https://ilyam-faisal.web.app#gh-light-mode-only)
 [![website](./img/briefcase-dark.svg)](https://ilyam-faisal.web.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-dark-mode-only)
 
 ### Skills and Experiences:
