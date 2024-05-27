@@ -13,10 +13,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![portfolio-general.pdf](./img/briefcase-light.svg)](https://github.com/ilyamfaisal28/ilyamfaisal28/files/15455336/portfolio-general.pdf#gh-light-mode-only)
-[![portfolio-general.pdf](./img/briefcase-dark.svg)](https://github.com/ilyamfaisal28/ilyamfaisal28/files/15455336/portfolio-general.pdf#gh-dark-mode-only)
-[portfolio-general.pdf](https://github.com/ilyamfaisal28/ilyamfaisal28/files/15455336/portfolio-general.pdf)
-
+[![portfolio-general.pdf](./img/briefcase-light.svg)](https://github.com/ilyamfaisal28/ilyamfaisal28/blob/main/portfolio-summary.pdf#gh-light-mode-only)
+[![portfolio-general.pdf](./img/briefcase-dark.svg)](https://github.com/ilyamfaisal28/ilyamfaisal28/blob/main/portfolio-summary.pdf#gh-dark-mode-only)
 
 ### Skills and Experiences:
 - 🤖 Machine Learning using Python, TensorFlow, Pytorch, Numpy, Pandas, Google Colab, Kaggle, Jupyter
