@@ -7,11 +7,16 @@
 - ⚡️ Fun fact: I love watching anime 🎬 and reading manga 📔 (especially if it's top quality in terms of story, character, etc.) and also I love exercising 💪
 
 ### Check My Portfolio:
-[![website](./img/briefcase-light.svg)](https://ilyam-faisal.web.app#gh-light-mode-only)
-[![website](./img/briefcase-dark.svg)](https://ilyam-faisal.web.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ilyam-faisal.web.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ilyam-faisal.web.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilyam-faisal#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![portfolio-general.pdf](./img/briefcase-light.svg)](https://github.com/ilyamfaisal28/ilyamfaisal28/files/15455336/portfolio-general.pdf#gh-light-mode-only)
+[![portfolio-general.pdf](./img/briefcase-dark.svg)](https://github.com/ilyamfaisal28/ilyamfaisal28/files/15455336/portfolio-general.pdf#gh-dark-mode-only)
+[portfolio-general.pdf](https://github.com/ilyamfaisal28/ilyamfaisal28/files/15455336/portfolio-general.pdf)
+
 
 ### Skills and Experiences:
 - 🤖 Machine Learning using Python, TensorFlow, Pytorch, Numpy, Pandas, Google Colab, Kaggle, Jupyter
